@@ -1,4 +1,4 @@
-# Collaborative-Playlist-Spotify-System
+# Collaborative-Spotify-Playlist-System
 Big data project by: [Andrew](https://github.com/Qulxis), [Alban](https://github.com/Alban999), and [Kenneth](https://github.com/Kennethm-spec). Playlist collaboration project for EECS6893
 
 
